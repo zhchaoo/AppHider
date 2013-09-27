@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppHider</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="description_icon">For app icon</string>
+    <string name="description_placeholder">For placeholder</string>
+    
+</resources>
